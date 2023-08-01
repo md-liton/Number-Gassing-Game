@@ -1,0 +1,117 @@
+*{
+    padding: 0;
+    margin: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+
+.result{
+    text-align: center;
+}
+.p1result{
+    text-align: center;
+    margin: 15px 0;
+}
+.p1value{
+    display: none;
+    text-align: center;
+}
+/* table oner part start */
+.table_one{
+    padding: 100px 0;
+    height: 400px;
+    width: 500px;
+    margin:  0 auto;
+    text-align: center;
+    border: 1px solid #6f41d33b;
+    border-radius: 10px;
+    margin-top: 100px;
+    box-shadow: 0px 0px 1px 1px #00000060;
+}
+.table_one input{
+    padding: 15px 10px;
+    border: 1px solid #77777742;
+    border-radius: 100px;
+    width: 80%;
+    margin: 15px 0;
+}
+.table_one button{
+    display: block;
+    margin: 0 auto;
+    background: #7041D3;
+    padding: 15px 40px;
+    border-radius: 100px;
+    border: none;
+    font-size: 20px;
+    font-weight: 700;
+    color: aliceblue;
+}
+/* table oner part end */
+
+
+/* table two part start */
+.table_two{
+    padding: 100px 0;
+    height: 400px;
+    width: 500px;
+    margin:  0 auto;
+    text-align: center;
+    border: 1px solid #6f41d33b;
+    border-radius: 10px;
+    margin-top: 100px;
+    box-shadow: 0px 0px 1px 1px #00000060;
+    display: none;
+}
+.table_two input{
+    padding: 15px 10px;
+    border: 1px solid #77777742;
+    border-radius: 100px;
+    width: 80%;
+    margin: 15px 0;
+}
+.table_two button{
+    display: block;
+    margin: 0 auto;
+    background: #7041D3;
+    padding: 15px 40px;
+    border-radius: 100px;
+    border: none;
+    font-size: 20px;
+    font-weight: 700;
+    color: aliceblue;
+}
+/* table two part end */
+
+
+/* table three part start */
+.table_three{
+    padding: 100px 0;
+    height: 400px;
+    width: 500px;
+    margin:  0 auto;
+    text-align: center;
+    border: 1px solid #6f41d33b;
+    border-radius: 10px;
+    margin-top: 100px;
+    box-shadow: 0px 0px 1px 1px #00000060;
+    display: none;
+}
+.table_three input{
+    padding: 15px 10px;
+    border: 1px solid #77777742;
+    border-radius: 100px;
+    width: 80%;
+    margin: 15px 0;
+}
+.table_three button{
+    display: block;
+    margin: 0 auto;
+    background: #7041D3;
+    padding: 15px 40px;
+    border-radius: 100px;
+    border: none;
+    font-size: 20px;
+    font-weight: 700;
+    color: aliceblue;
+}
+/* table three part end */
